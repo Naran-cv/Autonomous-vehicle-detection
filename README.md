@@ -1,7 +1,7 @@
 **YOLOv8 for Real-Time Object Detection in Autonomous Systems**
 
 ### Overview
-This study investigates real-time object detection using the YOLOv8 model in autonomous driving systems. Its primary objective is to improve the accuracy, efficiency, and fairness of object detection across varying environments. The project integrates advanced machine learning techniques, including data augmentation and bias mitigation, to enhance the YOLOv8 model’s performance. Additionally, object detection from video streams in real-world scenarios is explored, contributing to the development of safer and more equitable autonomous systems.
+This Project investigates real-time object detection using the YOLOv8 model in autonomous driving systems. Its primary objective is to improve the accuracy, efficiency, and fairness of object detection across varying environments. The project integrates advanced machine learning techniques, including data augmentation and bias mitigation, to enhance the YOLOv8 model’s performance. Additionally, object detection from video streams in real-world scenarios is explored, contributing to the development of safer and more equitable autonomous systems.
 
 ### Key Features
 - **Object Detection**: Leveraged the YOLOv8 architecture to detect and classify objects in real time.
